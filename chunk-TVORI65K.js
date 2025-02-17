@@ -1,0 +1,1 @@
+import{Da as n,Va as o,Wa as c,bb as i}from"./chunk-QBVUX4LU.js";var r=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["pgm-contact"]],decls:2,vars:0,template:function(e,p){e&1&&(o(0,"p"),i(1,"contact works!"),c())},encapsulation:2})}}return t})();export{r as ContactComponent};
