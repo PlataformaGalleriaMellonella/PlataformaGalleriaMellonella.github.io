@@ -1,1 +1,0 @@
-import{Da as n,Va as o,Wa as i,bb as m}from"./chunk-QBVUX4LU.js";var s=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["pgm-community"]],decls:2,vars:0,template:function(e,c){e&1&&(o(0,"p"),m(1,"community works!"),i())},encapsulation:2})}}return t})();export{s as CommunityComponent};

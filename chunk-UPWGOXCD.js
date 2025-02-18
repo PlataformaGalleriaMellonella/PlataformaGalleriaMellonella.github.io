@@ -1,0 +1,1 @@
+import{Ga as n,Ya as o,Za as i,eb as r}from"./chunk-4J5LPDHM.js";var s=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["pgm-library"]],decls:2,vars:0,template:function(t,p){t&1&&(o(0,"p"),r(1,"library works!"),i())},encapsulation:2})}}return e})();export{s as LibraryComponent};

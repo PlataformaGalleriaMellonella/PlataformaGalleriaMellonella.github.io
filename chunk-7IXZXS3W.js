@@ -1,0 +1,1 @@
+import{Ga as n,Ya as o,Za as i,eb as p}from"./chunk-4J5LPDHM.js";var a=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["pgm-not-found"]],decls:2,vars:0,template:function(e,r){e&1&&(o(0,"p"),p(1,"not-found works!"),i())},encapsulation:2})}}return t})();export{a as NotFoundComponent};

@@ -1,0 +1,1 @@
+import{Ga as o,Ya as n,Za as i,eb as m}from"./chunk-4J5LPDHM.js";var a=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["pgm-home"]],decls:2,vars:0,template:function(t,r){t&1&&(n(0,"p"),m(1,"home works!"),i())},encapsulation:2})}}return e})();export{a as HomeComponent};
