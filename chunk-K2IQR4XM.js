@@ -1,0 +1,1 @@
+import{$a as o,Ja as n,ab as i,kb as r}from"./chunk-BW4FWTPU.js";var a=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["pgm-register"]],decls:2,vars:0,template:function(t,p){t&1&&(o(0,"p"),r(1,"register works!"),i())},encapsulation:2})}}return e})();export{a as RegisterComponent};
