@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1740359769859,
+  "timestamp": 1740394801129,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -42,7 +42,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/icons/android-icon-192x192.png",
         "/icons/apple-icon-114x114.png",
         "/icons/apple-icon-120x120.png",
         "/icons/apple-icon-144x144.png",
@@ -53,9 +52,7 @@
         "/icons/apple-icon-72x72.png",
         "/icons/apple-icon-76x76.png",
         "/icons/favicon-16x16.png",
-        "/icons/favicon-256x256.png",
         "/icons/favicon-32x32.png",
-        "/icons/favicon-96x96.png",
         "/icons/icon-128x128.webp",
         "/icons/icon-144x144.webp",
         "/icons/icon-152x152.webp",
@@ -100,8 +97,7 @@
     "/chunk-XTRM74GY.js": "1c263e4e1782b73e01d34a5103bda5e4ba847dd2",
     "/chunk-YZFDS22F.js": "eb0b5af62c75656df62db0eaa6537a8a98cb27d4",
     "/chunk-ZU3ZFTUG.js": "7774853319237fda8bfa65ecbe796b51bd305bfa",
-    "/favicon.ico": "1c61758c9c3a915b009526af40a1dcffa0127aac",
-    "/icons/android-icon-192x192.png": "3ff90d07b089f9c4f16f31cf14fb6f69b4fc922d",
+    "/favicon.ico": "7ffd87682b15d27aef0a845b9844f325513661bb",
     "/icons/apple-icon-114x114.png": "c16b5ec3145857f215c47027cd85c1284839b19f",
     "/icons/apple-icon-120x120.png": "38bac43a57dc6392fb2f23ca3f9b931cc294fa47",
     "/icons/apple-icon-144x144.png": "e4115f9a4cf915e1377ec557d1130c177ce254dc",
@@ -111,10 +107,8 @@
     "/icons/apple-icon-60x60.png": "fd72ca99868722a71dab7b5ccd75baf516d07701",
     "/icons/apple-icon-72x72.png": "026d27d616ba1642a7131c3e99b664df259a2a84",
     "/icons/apple-icon-76x76.png": "a4922441ff542b660592e7bd43c5141d5e7e0f98",
-    "/icons/favicon-16x16.png": "552c106922077871a94829263f0b90b3a74832a7",
-    "/icons/favicon-256x256.png": "f5a6706632ab5212cf809ac389f75cfb4c493790",
-    "/icons/favicon-32x32.png": "3c451e0f7659358ec3a553d20f42f52c56afa1e5",
-    "/icons/favicon-96x96.png": "bd033722eb0ebdefc5051d9f016dc7efb14ceb01",
+    "/icons/favicon-16x16.png": "8d4464492d0e79b2937c00fa7443730312fea4c5",
+    "/icons/favicon-32x32.png": "6738d25589aa9cf39cc415659fc30367ff9ab8fa",
     "/icons/icon-128x128.webp": "dd4b2e8e97e6c393c142beb6c842ff52a1266833",
     "/icons/icon-144x144.webp": "4f8564e8d1dba88304c23a1bc24f3d5500a346c0",
     "/icons/icon-152x152.webp": "2530725d043b4b9f48b6c7ff7938a4291552423c",
@@ -139,7 +133,7 @@
     "/icons/pgm-logo-180x80-md.webp": "ec1fccbfa07a1d1ae123964667a79dac89b1852d",
     "/icons/pgm-logo-200x100-lg.webp": "40f44871e764c4d1a4dd40502c83ae17664328c8",
     "/icons/pgm-logo-250x150-xl.webp": "9f2e82beeb4e4106cc3ee05fe49c7e0a8019ba05",
-    "/index.html": "115024cbe7aa79be7b79b8ffcef7308c40915715",
+    "/index.html": "7a11892fd9af13fb2beaa90424b9a74656e0ab04",
     "/main-G56DJDZT.js": "cb82fafc3155736940b504a6e381ff66a3e553b1",
     "/manifest.webmanifest": "eb567b5a444c01dc63f69848a678bcf88d9a1f3f",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
