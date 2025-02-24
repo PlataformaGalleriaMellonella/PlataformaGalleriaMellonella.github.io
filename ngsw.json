@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1740399939814,
+  "timestamp": 1740400245299,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -141,7 +141,7 @@
     "/icons/pwa/ms-icon-70x70.webp": "89a96e2082be59245b8ae47bb58ca6cd5c6cfa12",
     "/index.html": "ddf3bacfbb72c9043a159213f27c3ddfa597b38a",
     "/main-C4C5C6FF.js": "c900a1e15a69ab1325dff4c3d9da51c928e02027",
-    "/manifest.webmanifest": "9b0f1090f5f97c054a11df3770381d4d90f7b3c3",
+    "/manifest.webmanifest": "c59beda508f60641a90f20575c360e894862fa89",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/styles-2LNUWONW.css": "93a5688dd75ffe47504ea32f70e7932a2dfb3069"
   },
