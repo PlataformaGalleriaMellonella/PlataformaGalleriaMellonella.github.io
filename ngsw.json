@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1740400245299,
+  "timestamp": 1740400348926,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -128,9 +128,9 @@
     "/icons/pwa/icon-128x128.webp": "3b2c69021646c4de1c6d52c789dd3714c1c445ed",
     "/icons/pwa/icon-144x144.webp": "3fc6418be39d42f107543e42c69930925bb55c56",
     "/icons/pwa/icon-152x152.webp": "2c28f410742ad2e20f6669b30eab405097e87b8a",
-    "/icons/pwa/icon-192x192.webp": "faf264f3632b8b6c3fa4640cb3aa9afac423bb87",
-    "/icons/pwa/icon-256x256.webp": "5a8a3d63cc3c9855709519167b185603a1802a65",
-    "/icons/pwa/icon-384x384.webp": "67acfb7009b6b2d066037f8c3622c85ca8d03942",
+    "/icons/pwa/icon-192x192.webp": "17bf1d65ecfd0bc764b092cf5c4d4f9a0f631cff",
+    "/icons/pwa/icon-256x256.webp": "ea8ed30c16bb79c4d4ef8a3dcc491e474324e612",
+    "/icons/pwa/icon-384x384.webp": "db5583da1449af300173bf3ec09c51058647b754",
     "/icons/pwa/icon-48x48.webp": "768b2267a71b743e54b800c1037067a5343f0563",
     "/icons/pwa/icon-512x512.webp": "2f885b0bd63edf1b007ca3c977c8235a16b6ced5",
     "/icons/pwa/icon-72x72.webp": "459cee1b8ba4e8f72e53f3f8222dc94c68b0d537",
