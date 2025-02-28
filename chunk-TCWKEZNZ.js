@@ -1,2 +1,0 @@
-import{Qa as n,ub as o}from"./chunk-TSE6CILM.js";var s=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["pgm-community-home"]],decls:1,vars:0,template:function(t,m){t&1&&o(0,`Home works
-`)},styles:['.grid[_ngcontent-%COMP%]{display:grid;grid-template-areas:"header" "content";height:100vh}.grid__content[_ngcontent-%COMP%]{display:flex;flex:1}']})}}return e})();export{s as CommunityHomeComponent};
