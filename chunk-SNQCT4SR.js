@@ -1,1 +1,0 @@
-import{Ib as m,bb as e,wb as n,xb as i}from"./chunk-J2RPSVDH.js";var s=(()=>{class t{static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275cmp=e({type:t,selectors:[["pgm-community-topic-form"]],decls:2,vars:0,template:function(o,c){o&1&&(n(0,"p"),m(1,"community-topic-form works!"),i())},encapsulation:2})}}return t})();export{s as CommunityTopicFormComponent};
