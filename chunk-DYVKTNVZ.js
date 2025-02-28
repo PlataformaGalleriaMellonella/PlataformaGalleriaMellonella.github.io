@@ -1,0 +1,1 @@
+import{Ib as m,bb as n,wb as o,xb as s}from"./chunk-J2RPSVDH.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["pgm-community-messages"]],decls:2,vars:0,template:function(t,a){t&1&&(o(0,"p"),m(1,"community-messages works!"),s())},encapsulation:2})}}return e})();export{c as CommunityMessagesComponent};
