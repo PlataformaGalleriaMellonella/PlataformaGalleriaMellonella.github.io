@@ -1,0 +1,1 @@
+import{Kb as m,ab as o,ub as n,vb as i}from"./chunk-I44CEVIG.js";var f=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["pgm-community-profile"]],decls:2,vars:0,template:function(t,p){t&1&&(n(0,"p"),m(1,"community-profile works!"),i())},encapsulation:2})}}return e})();export{f as CommunityProfileComponent};

@@ -1,1 +1,0 @@
-import{Kb as i,ab as o,ub as n,vb as m}from"./chunk-JOZAMYW2.js";var u=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=o({type:t,selectors:[["pgm-community-forum"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),i(1,"community-forum works!"),m())},encapsulation:2})}}return t})();export{u as CommunityForumComponent};

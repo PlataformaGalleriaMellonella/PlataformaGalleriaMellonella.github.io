@@ -1,0 +1,1 @@
+import{Kb as c,ab as i,ub as n,vb as o}from"./chunk-I44CEVIG.js";var s=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=i({type:e,selectors:[["pgm-scientific-outreach"]],decls:2,vars:0,template:function(t,a){t&1&&(n(0,"p"),c(1,"scientific-outreach works!"),o())},encapsulation:2})}}return e})();export{s as ScientificOutreachComponent};
