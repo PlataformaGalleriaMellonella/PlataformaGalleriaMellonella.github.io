@@ -1,0 +1,18 @@
+{
+  "home": {
+    "title": "Welcome to the <span class='text-italic'>Galleria mellonella</span> Platform",
+    "subtitle": "A collaborative space to share, learn, and disseminate knowledge about <span class='text-italic'>Galleria mellonella</span>. Here, knowledge is built in community."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a platform dedicated to the dissemination and exchange of knowledge about <span class='text-italic'>Galleria mellonella</span>, a widely used invertebrate model in scientific research. We have a collaborative network of faculty, students, researchers, and experts, with the goal of connecting people and ideas around this invertebrate",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to be a reliable source of knowledge and resources for the scientific community and those interested in <span class='text-italic'>Galleria mellonella</span>. We aim to promote collaboration among researchers and drive scientific research forward."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "Our vision is to become the leading global reference for information and resources related to <span class='text-italic'>Galleria mellonella</span>. We aspire to be recognized as a center of excellence, connecting researchers, academics, and enthusiasts interested in this species. We seek to promote significant advancements in understanding immunology, microbiology, and other research areas through the study of <span class='text-italic'>Galleria mellonella</span>. We aim to be a platform that inspires and empowers the scientific community, driving innovation and the development of solutions for complex challenges."
+    }
+  }
+}
