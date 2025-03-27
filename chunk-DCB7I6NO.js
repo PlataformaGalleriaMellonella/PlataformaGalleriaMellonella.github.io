@@ -1,1 +1,0 @@
-function a(o){let s=["de","da","do","das","dos","em","no","na","nos","nas","por","a","o","as","os","e","com","para","sem","sob","sobre"];return o.split("-").map((e,t)=>{let r=e.charAt(0).toUpperCase()+e.slice(1).toLowerCase();return t>0&&s.includes(e.toLowerCase())?e.toLowerCase():r}).join(" ")}export{a};
