@@ -1,0 +1,1 @@
+import{ab as n}from"./chunk-VUK7EZK5.js";var i=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275cmp=n({type:t,selectors:[["pgm-contact"]],decls:0,vars:0,template:function(e,c){},encapsulation:2})}}return t})();export{i as ContactComponent};
