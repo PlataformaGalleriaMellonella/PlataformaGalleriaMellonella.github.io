@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1743455127696,
+  "timestamp": 1743455884671,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -35,7 +35,6 @@
         "/chunk-LJHVUCAD.js",
         "/chunk-M7ZMZR2Y.js",
         "/chunk-MGF7ALPK.js",
-        "/chunk-MR3PK725.js",
         "/chunk-NK35OAAI.js",
         "/chunk-OVBUSPGG.js",
         "/chunk-P5ZKFBUL.js",
@@ -45,12 +44,13 @@
         "/chunk-QLQ6LSIV.js",
         "/chunk-RELJB3SA.js",
         "/chunk-SLVHG6VT.js",
+        "/chunk-UHEXSLCI.js",
         "/chunk-VFYN5TL2.js",
         "/chunk-XHR6BKAQ.js",
         "/chunk-ZFSUHPNE.js",
         "/favicon.ico",
         "/index.html",
-        "/main-Q5EPX47U.js",
+        "/main-QAEFIGYY.js",
         "/manifest.webmanifest",
         "/polyfills-US4EF7YG.js",
         "/styles-ZVJX5FWJ.css"
@@ -139,7 +139,6 @@
     "/chunk-LJHVUCAD.js": "6b65485a7e94e6b4a99903ac943d451c94c091a1",
     "/chunk-M7ZMZR2Y.js": "0f330a266dc9d06db52dd4a71cb728387cee90eb",
     "/chunk-MGF7ALPK.js": "188505db2794b554942565def87ae2633e157ed1",
-    "/chunk-MR3PK725.js": "c9f4b987a12dfc7c8161b82958d222eb12d60629",
     "/chunk-NK35OAAI.js": "ad072d2245ea0d1df555eb39bfcc84ddcdfc8177",
     "/chunk-OVBUSPGG.js": "97d9b43ce531392a1308560dc503971dc70a9a54",
     "/chunk-P5ZKFBUL.js": "8813ea1b89ad88998b15183359ff17a20d79e53c",
@@ -149,6 +148,7 @@
     "/chunk-QLQ6LSIV.js": "7ca720c7bb83dd4b0b192bb348a6e48643ff932c",
     "/chunk-RELJB3SA.js": "8539e7c8e0929a1a4642dcb8766ed448dc261a72",
     "/chunk-SLVHG6VT.js": "c69baae22b59252a6901d5ffb71b279979a04ec0",
+    "/chunk-UHEXSLCI.js": "15c3935c977741813416a149be2e1e23da7ff0e9",
     "/chunk-VFYN5TL2.js": "57e08dd8fe3e4f320f64213e0ada6a8f6e390cb6",
     "/chunk-XHR6BKAQ.js": "2424da6ff56ac28c121a231f33860d45173c4979",
     "/chunk-ZFSUHPNE.js": "a092fa01e380b25307b93a53b150fe95efcbb37d",
@@ -197,8 +197,8 @@
     "/icons/pwa/ms-icon-70x70.webp": "89a96e2082be59245b8ae47bb58ca6cd5c6cfa12",
     "/icons/whatsapp-24x24.webp": "316031d960767c1d8186e23bed7943694f07db0e",
     "/icons/whatsapp-48x48.webp": "6a30f539ea38a47a22efa8c775fba294c1d1f11a",
-    "/index.html": "95137f63950ea0aa0242883f226fd80b16f3cb2a",
-    "/main-Q5EPX47U.js": "46a5935df5809b6962c71b76bbe8d90ca7e9f196",
+    "/index.html": "9a4bdc9a2cb696213309b73b6012ec17669ebbeb",
+    "/main-QAEFIGYY.js": "fa13759a9bbf452c139fd9084ff6b51317a7afc9",
     "/manifest.webmanifest": "c59beda508f60641a90f20575c360e894862fa89",
     "/polyfills-US4EF7YG.js": "d1f59e5701b7cfd912dbfa2f95f91ddd7074f766",
     "/styles-ZVJX5FWJ.css": "ec4ab307c7217031fcad5321d9a6c27c63f276aa"
