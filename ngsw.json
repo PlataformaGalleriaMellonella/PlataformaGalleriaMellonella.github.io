@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1743467815475,
+  "timestamp": 1743512117181,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -21,7 +21,6 @@
         "/chunk-7UVZ3TVV.js",
         "/chunk-AMNG2J4N.js",
         "/chunk-B2V6VXRL.js",
-        "/chunk-BCW2ZH4Q.js",
         "/chunk-DCBJIHYG.js",
         "/chunk-DPP647ZV.js",
         "/chunk-DRUXP2NX.js",
@@ -48,9 +47,10 @@
         "/chunk-VFYN5TL2.js",
         "/chunk-XHR6BKAQ.js",
         "/chunk-ZFSUHPNE.js",
+        "/chunk-ZY74C53Q.js",
         "/favicon.ico",
         "/index.html",
-        "/main-XSFZDPRL.js",
+        "/main-2AS7QOGU.js",
         "/manifest.webmanifest",
         "/polyfills-US4EF7YG.js",
         "/styles-ZVJX5FWJ.css"
@@ -131,7 +131,6 @@
     "/chunk-7UVZ3TVV.js": "083e379217e25234306f3ee12d6ecc6f643d4bb0",
     "/chunk-AMNG2J4N.js": "e64280b048dd87590c5e8b1f11916a20da3f4e3c",
     "/chunk-B2V6VXRL.js": "2ea4ed07b5920ef14c1ac5b82ef99d7f5c9a152e",
-    "/chunk-BCW2ZH4Q.js": "53ce3806c7ef208923a4427163eeeadafd61d753",
     "/chunk-DCBJIHYG.js": "15ac890257027023903d35566034895925aee86f",
     "/chunk-DPP647ZV.js": "e9c17188e0274a7bad5beb243f10d76357a9c1ae",
     "/chunk-DRUXP2NX.js": "bfa958576748311eea3047022947eb66206667eb",
@@ -158,6 +157,7 @@
     "/chunk-VFYN5TL2.js": "57e08dd8fe3e4f320f64213e0ada6a8f6e390cb6",
     "/chunk-XHR6BKAQ.js": "2424da6ff56ac28c121a231f33860d45173c4979",
     "/chunk-ZFSUHPNE.js": "a092fa01e380b25307b93a53b150fe95efcbb37d",
+    "/chunk-ZY74C53Q.js": "4744bfdc0ae5f30baa80b04eef5717e657b5e4e4",
     "/favicon.ico": "12dd6b3dc3a3ad6cbf4d962c5439333e6a324b88",
     "/icons/email-24x24.webp": "a06e7eaa72a202f090acb05896bef81b82a5cc5c",
     "/icons/email-36x36.webp": "950720299a5af52c912c2b33abef0557d2dee47b",
@@ -209,8 +209,8 @@
     "/icons/whatsapp-24x24.webp": "316031d960767c1d8186e23bed7943694f07db0e",
     "/icons/whatsapp-36x36.webp": "94ae6a91a3d6eca6f41edc963a01d3e48a5f7ec6",
     "/icons/whatsapp-48x48.webp": "6a30f539ea38a47a22efa8c775fba294c1d1f11a",
-    "/index.html": "31b128005847db7d8d9904d8ef4541b2e1dc4f36",
-    "/main-XSFZDPRL.js": "67ef2d95916800958226e39dc3853ef38feb5551",
+    "/index.html": "14f6cee47f3cf62122d606b591b99d57fa36731a",
+    "/main-2AS7QOGU.js": "b1d3d35160ba2dcd9e2cf33c700df3e9ba9e1f66",
     "/manifest.webmanifest": "c59beda508f60641a90f20575c360e894862fa89",
     "/polyfills-US4EF7YG.js": "d1f59e5701b7cfd912dbfa2f95f91ddd7074f766",
     "/styles-ZVJX5FWJ.css": "ec4ab307c7217031fcad5321d9a6c27c63f276aa"
