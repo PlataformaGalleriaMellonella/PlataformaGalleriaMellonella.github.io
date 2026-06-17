@@ -1,0 +1,1 @@
+import {q as qv}from'./main-NODYLXYI.js';var i=(()=>{class t{static{this.\u0275fac=function(e){return new(e||t)};}static{this.\u0275cmp=qv({type:t,selectors:[["pgm-contact"]],decls:0,vars:0,template:function(e,c){},encapsulation:2,changeDetection:1});}}return t})();export{i as ContactComponent};
